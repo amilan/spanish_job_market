@@ -142,11 +142,16 @@ def main():
     parser = argparse.ArgumentParser(description='Extract job offers.')
     parser.add_argument('-f','--filename', type=str,
                         help=f'Filename where data will be saved. ' \
-                             f'The date will be added at the end of it.',
+                             f'The date will be added at the end of it.\n' \
+                             f'This argument is optional, the default value ' \
+                             f'will be saved under the data directory with the '\
+                             f'name: offers_XXXX-XX-XX.csv. Where XXXX-XX-XX '\
+                             f'is the actual date.',
                         default=DEFAULT_FILENAME)
     parser.add_argument('-wt','--wait_time', type=int,
                         help=f'Time to wait between requests, used to prevent ' \
-                             f'the overload of the server.',
+                             f'the overload of the server.\n' \
+                             f'The default wait time is 5 seconds.',
                         default=5)
     args = parser.parse_args()
 
