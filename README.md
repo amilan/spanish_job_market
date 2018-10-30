@@ -1,4 +1,6 @@
-# Spainish Job Offer Extractor
+# Spanish Job Market
+
+Spanish job market during weeks 43-44 of 2018.
 
 ## Ofertes de treball en Espanya
 
