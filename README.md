@@ -55,9 +55,9 @@ Aquests dades han estat extretes de la web [empleate.gob.es][1] i com comentem a
 
 ## Referències
 
-https://empleate.gob.es/empleo/#/
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-https://empleate.gob.es/empleo/#/trabajo?search=*&pag=0
+- https://empleate.gob.es/empleo/#/
+- https://creativecommons.org/licenses/by-nc-sa/4.0/
+- https://empleate.gob.es/empleo/#/trabajo?search=*&pag=0
 
 [1]: https://empleate.gob.es/empleo/#/
 [2]: https://creativecommons.org/licenses/by-nc-sa/4.0/
