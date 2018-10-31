@@ -7,7 +7,7 @@ Spanish job market during weeks 43-44 of 2018.
 ## Ofertes de treball a Espanya
 
 ![alt text](./images/combined_map.png)
-> Distribució del nombre d'ofertes per comunitat.
+> Distribució del nombre d'ofertes per comunitat, durant les setmanes 43-44 de 2018.
 
 ## Introducció
 
