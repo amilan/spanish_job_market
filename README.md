@@ -6,7 +6,8 @@ Spanish job market during weeks 43-44 of 2018.
 
 ## Ofertes de treball a Espanya
 
-> Add image here and license here.
+![alt text](./images/combined_map.png)
+> Distribució del nombre d'ofertes per comunitat.
 
 ## Introducció
 
