@@ -71,8 +71,8 @@ def get_web(url):
 def get_data(rows, start_at):
     """Function to get the data from the request."""
     # url = URL_TEMPLATE.format(rows, start_at)
-    # url = URL_TEMPLATE_SPAIN.format(rows, start_at)
-    url = URL_TEMPLATE_SPAIN_TODAY.format(rows, start_at)
+    url = URL_TEMPLATE_SPAIN.format(rows, start_at)
+    # url = URL_TEMPLATE_SPAIN_TODAY.format(rows, start_at)
     page = get_web(url)
     data = extract_json(page.text)
     return data
