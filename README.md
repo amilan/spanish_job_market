@@ -51,11 +51,18 @@ També es podria expandir el data set amb informació sobre el cost de la vida p
 
 ## Llicència
 
-Aquests dades han estat extretes de la web [1] i com comentem amunt, les dades son públiques sempre que es compleixin les condicions esmentades. Per tal motiu, aquests dades les oferim sota la llicència CC0: Public Domain License.
+Aquests dades han estat extretes de la web [empleate.gob.es][1] i com comentem amunt, les dades son públiques sempre que es compleixin les condicions esmentades. Per tal motiu, aquests dades les oferim sota la llicència CC0: Public Domain License.
 
 ## Referències
+
+https://empleate.gob.es/empleo/#/
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://empleate.gob.es/empleo/#/trabajo?search=*&pag=0
 
 [1]: https://empleate.gob.es/empleo/#/
 [2]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-https://empleate.gob.es/empleo/#/trabajo?search=*&pag=0
+## Bibliografia
+
+- Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+- Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
