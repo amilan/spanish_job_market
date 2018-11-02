@@ -71,7 +71,7 @@ def show_total_time(n_page, wait_time):
     logging.info(f"       ... That means {total_hours:.2g} hours")
     
 
-def export_data_to_file(filename, wait_time, requestor):
+def export_data_to_file(filename, wait_time, requestor, testing):
     """Extract the data from the source."""
     logging.info(f'Starting to export data to file ...')
     # get the 10 first offers
@@ -89,9 +89,12 @@ def export_data_to_file(filename, wait_time, requestor):
     visual_sleep(wait_time)
     
     # get the rest of the offers
-    n_pages = 4  # TODO: This value is just for tests. Remove it.
+    # n_pages = 2
+    if testing:
+        n_pages = 4
+
     for i in range(1, n_pages):        
-        logging.info(f'Starting iteration: {i} of {n_pages}')
+        logging.info(f'Starting iteration: {i+1} of {n_pages}')
         start_at = i*10
         data = requestor.get_data(rows, start_at)
         docs = data['response']['docs']
@@ -119,19 +122,36 @@ def main():
                              f'the overload of the server.\n' \
                              f'The default wait time is 5 seconds.',
                         default=5)
+    parser.add_argument('-nd', '--number_of_days', type=int,
+                        help=f"Set the number of days to collect data.",
+                        default=None)
+    parser.add_argument('-td', '--today', action="store_true",
+                        help=f"Collect the data from today.")
+    parser.add_argument('--testing', action="store_true",
+                        help=f"Test with a limited number of pages.")
     args = parser.parse_args()
 
-    filename = f'../data/{args.filename}_{datetime.date.today()}.csv'
+    today_date = datetime.date.today()
+    filename = f'../data/{args.filename}_{today_date}.csv'
     wait_time = args.wait_time
 
-    # TODO: add options to configure the type of query to be done.
-
     requestor = RequestHandler()
-    # requestor.set_query_todays_spanish_offers()
-    requestor.set_query_all_spanish_offers()
+
+    if args.today:
+        logging.info(f"Only todays data: {today_date}")
+        requestor.set_query_todays_spanish_offers()
+    elif args.number_of_days is not None:
+        logging.info("Getting data from the last {args.number_of_days} days")
+        requestor.set_custom_days_query(args.number_of_days)
+        filename = f'../data/{args.filename}_last_{args.number_of_days}_days.csv'
+    else:
+        logging.info("All the data")
+        requestor.set_query_all_spanish_offers()
+
 
     logging.info(f'Data will be saved in: {filename}')
-    export_data_to_file(filename, wait_time, requestor)
+    export_data_to_file(filename, wait_time,
+                        requestor, args.testing)
     logging.info('Data extracted correctly.')
 
 
