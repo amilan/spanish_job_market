@@ -47,16 +47,16 @@ class RequestHandler(object):
         self.get_custom_days = False
         self.n_days = 0
 
-    def set_query_all_offers(self):
+    def conf_query_all_offers(self):
         """Get all the available data."""
         self.params['fq'] = "speStateId:1 OR speStateId:4"    
 
-    def set_query_all_spanish_offers(self):
+    def conf_query_all_spanish_offers(self):
         """Get all the available data."""
         self.params['fq'] = ["paisF: \"ESPAÑA\"",
                              "speStateId:1 OR speStateId:4"]
 
-    def set_query_todays_spanish_offers(self):
+    def conf_query_todays_spanish_offers(self):
         """Get the data added today."""
         self.get_today_data = True
 
@@ -75,7 +75,7 @@ class RequestHandler(object):
     #                          ]
     #     # self.params['fq'] = "fechaCreacionPortal:[2018-11-01T00:00:00Z+2018-11-02T00:00:00Z]&fq=paisF:%22ESPA%C3%91A%22&fq=speStateId:1%20OR%20speStateId:4"
 
-    def set_custom_days_query(self, number_of_days):
+    def conf_query_custom_days(self, number_of_days):
         self.get_today_data = False
         self.get_custom_days = True
         self.n_days = number_of_days
@@ -164,11 +164,11 @@ class RequestHandler(object):
 
 def main():
     requestor = RequestHandler()
-    # requestor.set_query_all_offers()
-    # requestor.set_query_all_spanish_offers()
-    # requestor.set_query_todays_spanish_offers()
-    # requestor.set_query_last_two_weeks_spanish_offers()
-    requestor.set_custom_days_query(3)
+    # requestor.conf_query_all_offers()
+    # requestor.conf_query_all_spanish_offers()
+    # requestor.conf_query_todays_spanish_offers()
+    # requestor.conf_query_last_two_weeks_spanish_offers()
+    requestor.conf_query_custom_days(3)
     data = requestor.get_data()
     # print(page.url)
     # print(page.text)

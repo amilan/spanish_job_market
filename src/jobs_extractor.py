@@ -139,14 +139,14 @@ def main():
 
     if args.today:
         logging.info(f"Only todays data: {today_date}")
-        requestor.set_query_todays_spanish_offers()
+        requestor.conf_query_todays_spanish_offers()
     elif args.number_of_days is not None:
         logging.info("Getting data from the last {args.number_of_days} days")
-        requestor.set_custom_days_query(args.number_of_days)
+        requestor.conf_query_custom_days(args.number_of_days)
         filename = f'../data/{args.filename}_last_{args.number_of_days}_days.csv'
     else:
         logging.info("All the data")
-        requestor.set_query_all_spanish_offers()
+        requestor.conf_query_all_spanish_offers()
 
 
     logging.info(f'Data will be saved in: {filename}')
