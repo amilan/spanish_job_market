@@ -23,6 +23,7 @@ def main():
     # dataset_2.dropna(axis=1)
     # but we will not do it here, as we will work later on the data cleaning.
 
+    # Append the 2nd dataset into the 1st and save the data in a new CSV.
     merged_dataset = dataset_1.append(dataset_2, ignore_index=True)
     merged_dataset.drop_duplicates()
     merged_dataset.to_csv(args.output, index=False)

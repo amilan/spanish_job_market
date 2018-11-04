@@ -9,9 +9,7 @@ import csv
 import json
 import time
 import requests
-# from bs4 import BeautifulSoup
-from requests.exceptions import RequestException  # , ConnectionError
-# from requests.exceptions import HTTPError, Timeout, TooManyRedirects
+from requests.exceptions import RequestException
 
 from commons import DEFAULT_FILENAME
 from request_handler import RequestHandler
@@ -20,12 +18,13 @@ from request_handler import RequestHandler
 def write_headers(filename, fields):
     """Write the headers of the CSV file."""
     with open(filename, 'w') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fields, restval='NA', extrasaction='ignore')
+        writer = csv.DictWriter(csv_file, fieldnames=fields,
+                                restval='NA', extrasaction='ignore')
         writer.writeheader()
 
 
 def write_rows(filename, fields, data):
-    """Write the data into rows."""
+    """Write the data as rows in the CSV file."""
     with open(filename, 'a') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=fields,
                                 restval='NA', extrasaction='ignore')
@@ -42,7 +41,7 @@ def visual_sleep(seconds):
 
 
 def get_n_pages(data):
-    """Get the number of pages to extract the offers."""
+    """Return the number of pages to extract the offers."""
     n_offers = data['response']['numFound']
     n_pages = math.ceil(n_offers / 10.)
     logging.info(f'The total number of offers found is: {n_offers}')
@@ -51,7 +50,7 @@ def get_n_pages(data):
 
 
 def get_fields(docs):
-    """Get the maximum number of fields to extract."""
+    """Return the maximum number of fields to extract."""
     length_list = [len(doc) for doc in docs]
     max_value = max(length_list)
     max_index = length_list.index(max_value)
@@ -63,7 +62,7 @@ def get_fields(docs):
 
 def show_total_time(n_page, wait_time):
     """Calculate the total amount of time that the process will last."""
-    avg_time_to_get_page = n_page * 0.09  # ms
+    avg_time_to_get_page = n_page * 0.09  # Average time to download the web in ms
     total_seconds = (n_page * wait_time) + avg_time_to_get_page
     total_minutes = total_seconds / 60.0
     total_hours = total_minutes / 60.0
@@ -72,9 +71,10 @@ def show_total_time(n_page, wait_time):
     
 
 def export_data_to_file(filename, wait_time, requestor, testing):
-    """Extract the data from the source."""
+    """Extract the data from the source and save it to file."""
     logging.info(f'Starting to export data to file ...')
-    # get the 10 first offers
+    
+    # get the 10 first offers. This is the info in the 1st page.
     rows, start_at = (10, 0)
     data = requestor.get_data(rows, start_at)
     n_pages = get_n_pages(data)
@@ -88,8 +88,7 @@ def export_data_to_file(filename, wait_time, requestor, testing):
     write_rows(filename, fields, docs)
     visual_sleep(wait_time)
     
-    # get the rest of the offers
-    # n_pages = 2
+    # get the rest of the offers, shown in different pages.
     if testing:
         n_pages = 4
 
@@ -131,6 +130,7 @@ def main():
                         help=f"Test with a limited number of pages.")
     args = parser.parse_args()
 
+    # Get ready the different constants to be used.
     today_date = datetime.date.today()
     filename = f'../data/{args.filename}_{today_date}.csv'
     wait_time = args.wait_time
@@ -140,10 +140,12 @@ def main():
     if args.today:
         logging.info(f"Only todays data: {today_date}")
         requestor.conf_query_todays_spanish_offers()
+    
     elif args.number_of_days is not None:
         logging.info("Getting data from the last {args.number_of_days} days")
         requestor.conf_query_custom_days(args.number_of_days)
         filename = f'../data/{args.filename}_last_{args.number_of_days}_days.csv'
+    
     else:
         logging.info("All the data")
         requestor.conf_query_all_spanish_offers()

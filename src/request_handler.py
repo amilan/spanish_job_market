@@ -12,7 +12,7 @@ from commons import BASE_URL, HEADERS
 
 
 class RequestHandler(object):
-    """Class to be used for the requests to obtain data."""
+    """Class to be used to manage the different requests to obtain data."""
 
     def __init__(self, params=None):
         """Class constructor were we initialize the parameters to be used."""
@@ -48,43 +48,32 @@ class RequestHandler(object):
         self.n_days = 0
 
     def conf_query_all_offers(self):
-        """Get all the available data."""
+        """Configure the parameters to get all the available data."""
         self.params['fq'] = "speStateId:1 OR speStateId:4"    
 
     def conf_query_all_spanish_offers(self):
-        """Get all the available data."""
+        """Configure the parameters to get all the spanish offers."""
         self.params['fq'] = ["paisF: \"ESPAÑA\"",
                              "speStateId:1 OR speStateId:4"]
 
     def conf_query_todays_spanish_offers(self):
-        """Get the data added today."""
+        """Configure the query to get the spanish offers added today."""
         self.get_today_data = True
 
-    #     # I give up ... the following code doesn't work
-    #     d_today = datetime.date.today()
-    #     date_to_request = f'{d_today}T00:00:00Z+'\
-    #                       f'{d_today + datetime.timedelta(days=1)}T00:00:00Z'
-        
-    #     # TODO: Find why this doesn't work.
-    #     print(date_to_request)
-    #     print(f"fechaCreacionPortal: [{date_to_request}]")
-    #     self.params['fq'] = ["""fechaCreacionPortal:[2018-11-01T00:00:00Z+2018-11-02T00:00:00Z]""",
-    #                          """paisF:\"ESPAÑA\"""",
-    #                         #  f"fechaCreacionPortal:[{date_to_request}]",
-    #                          "speStateId:1 OR speStateId:4", 
-    #                          ]
-    #     # self.params['fq'] = "fechaCreacionPortal:[2018-11-01T00:00:00Z+2018-11-02T00:00:00Z]&fq=paisF:%22ESPA%C3%91A%22&fq=speStateId:1%20OR%20speStateId:4"
-
     def conf_query_custom_days(self, number_of_days):
+        """Configure the query to get data from custom days."""
         self.get_today_data = False
         self.get_custom_days = True
         self.n_days = number_of_days
 
-
     def get_todays_spanish_offers(self):
-        """Get the data added today."""
+        """Get the spanish offers added today.
+        
+        It's done using an URL template instead of the self.params due to 
+        incompatibilities when trying to make the request that forced me
+        to implemented it in this way.
+        """
 
-        # TODO: pass the days as parameters
         d_today = datetime.date.today()
         date_to_request = f'{d_today+ datetime.timedelta(days=-1)}T00:00:00Z+'\
                           f'{d_today + datetime.timedelta(days=0)}T00:00:00Z'
@@ -105,7 +94,12 @@ class RequestHandler(object):
         return self.get_web(URL, use_params=False)
 
     def get_last_days_spanish_offers(self):
-        """Get the data added today."""
+        """Get the spanish offers published in the last N days.
+        
+        It's done using an URL template instead of the self.params due to 
+        incompatibilities when trying to make the request that forced me
+        to implemented it in this way.
+        """
 
         d_today = datetime.date.today()
         date_to_request = f'{d_today + datetime.timedelta(days=-self.n_days)}T00:00:00Z+'\
@@ -128,7 +122,7 @@ class RequestHandler(object):
 
 
     def get_web(self, url=BASE_URL, use_params=True):
-        """Method to download the web page where to extract the info."""
+        """Returns the downloaded web page where to extract the info."""
         try:
             if use_params:
                 page = requests.get(url, headers=HEADERS, params=self.params)
@@ -141,9 +135,13 @@ class RequestHandler(object):
         return page
 
     def extract_json(self, page_text):
-        """Extract the data from the request into a JSON object."""
+        """Extract the data from the request into a JSON object.
+        
+        As the data is coming in a form of JSONP, the first part needs to be
+        extracted. Therefore, a regular expression is used to remove that 
+        part and get only the json data.
+        """
         p = re.compile('jQuery\w*\(')
-        # jQuery\w*,_:\w*\(
         data = p.sub("", page_text)
         data = json.loads(data[:-1])
         return data
@@ -163,6 +161,7 @@ class RequestHandler(object):
         return data
 
 def main():
+    # This code was used for testing.
     requestor = RequestHandler()
     # requestor.conf_query_all_offers()
     # requestor.conf_query_all_spanish_offers()
@@ -177,6 +176,7 @@ def main():
 if __name__ == '__main__':
     main()
 
+    # This code was used for testing.
     # page = get_web(BASE_URL)
     # data = extract_json(page.text)
     # print(len(data['response']['docs']))
