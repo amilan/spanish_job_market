@@ -1,0 +1,336 @@
+categoria,categoriaF,categoriaS,ciudad,ciudadF,comunidad,comunidadF,consulta1,consulta2,consulta3,consulta4,contenido,creador,cuestionario,discapacidad,educacion,educacionF,educacionReq,educacionReqF,educacionS,empresaSocial,ett,fechaCreacion,fechaCreacionBoost,fechaCreacionPortal,fechaRevision,id,jornada,jornadaF,localizacion,minExperiencia,origen,pais,paisF,paisS,provincia,provinciaF,provinciaLimitrofe,provinciaS,publicado1,publicado2,publicado3,publicado4,respuesta1A,respuesta1B,respuesta2A,respuesta2B,respuesta2C,respuesta3A,respuesta3B,salarioMax,salarioMin,score,speState,speStateId,subcategoria,subcategoriaF,subcategoriaS,tipoContratoN,titulo,trabajosOfertados,url,valor1A,valor1B,valor2A,valor2B,valor3B
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,08019,Barcelona,9,CATALUÑA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Barcelona ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2017-05-04T12:27:49Z,2017-05-04T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T10:44:48Z,1730212624,1,COMPLETA,"41.385064,2.173404",3,WEB,724,ESPAÑA,ESPAÑA,8,BARCELONA,['BARCELONA'],BARCELONA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1800,1800,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,0,Operario de campo técnico multiservicios,1,-,NA,NA,NA,NA,NA
+18,INGENIERÍA/CALIDAD/CIENCIAS,INGENIERÍA/CALIDAD/CIENCIAS,24034,Camponaraya,8,CASTILLA Y LEÓN,NA,NA,NA,NA,REALIZACIÓN DE PROYECTOS Y DIRECCIONES DE OBRA INDUSTRIALES.,CONNECT ELECTRIC INGENIERÍA,NA,False,8,Licenciado o Ingeniero Superior,08060,Ingeniero Industrial,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:58:56Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690019,1,COMPLETA,"42.578457,-6.667398",3,WEB,724,ESPAÑA,ESPAÑA,24,LEÓN,['LEÓN'],LEÓN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1300,1300,1.1744709,Activa,1,18003,INGENIERÍAS,INGENIERÍAS,4,INGENIERO INDUSTRIAL,1,-,NA,NA,NA,NA,NA
+17,INFORMÁTICA/TELECOMUNICACIONES,INFORMÁTICA/TELECOMUNICACIONES,38038,Santa Cruz de Tenerife,5,ISLAS CANARIAS,¿Esta colegiado o esta esta en disposición de hacerlo?,¿Tiene disponibilidad para desplazarse?,NA,NA,"IMPRESCINDIBLE INGENIERÍA TELECOMUNICACIONES
+
+¡inscríbete en nuestra oferta!
+Somos una compañía con una larga trayectoria dentro del sector de las telecomunicaciones, que cuenta con su portfolio de clientes con grandes empresas del sector.
+Estamos seleccionando perfiles titulados en Ingeniería de Telecomunicación para la zona de Barcelona que se encargue de relizar mediciones radioeléctricas en el entorno de:
+
+-Estaciones base de telefonía móvil.
+-Centros emisores de TDT.
+-Centros emisores de FM.
+
+El objeto de estas mediciones es la verificar el cumplimiento del RD 1066/2001. En el proceso de medición se tendrá en cuenta el procedimiento para la realización de medidas de niveles de emisión detallado en la Orden Ministerial CTE 23/2002.
+Durante el proceso de medida el técnico deberá, atendiendo a las características radioeléctricas de la estación y a los factores de entorno, realizar las mediciones en los puntos de máximo nivel de emisión en los que puedan permanecer habitualmente personas.
+
+Por cada estación medida el técnico deberá:
+-cumplimentar una hoja de campo con los valores y datos registrados
+-realizar un reportaje fotográfico
+-realizar un croquis con la ubicación de la estación y de los puntos de medida
+Toda esta documentación se organizará en una carpeta electrónica y se entregará a los responsables del proyecto.","EUROCONTROL,SA",True,False,8,Licenciado o Ingeniero Superior,08053,Ingeniero de Telecomunicación,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:04:36Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689268,1,COMPLETA,"28.463630,-16.251847",1,WEB,724,ESPAÑA,ESPAÑA,38,SANTA CRUZ DE TENERIFE,['SANTA CRUZ DE TENERIFE'],SANTA CRUZ DE TENERIFE,True,True,NA,NA,"Si, lo estoy","No, pero no me importaría",Si sin problema,"Si, con cierto preaviso",No,NA,NA,15000,13000,1.1744709,Activa,1,17006,TELECOMUNICACIONES,TELECOMUNICACIONES,1,INGENIERO DE TELECOMUNICACIONES - TÉCNICO EMR,1,-,3,3,3,3,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,41091,Sevilla,1,ANDALUCÍA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Sevilla ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T10:53:52Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689960,1,COMPLETA,"37.389092,-5.984459",4,WEB,724,ESPAÑA,ESPAÑA,41,SEVILLA,['SEVILLA'],SEVILLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,1500,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,Operario de campo multiservicios,1,-,NA,NA,NA,NA,NA
+06,COMERCIAL/VENTAS,COMERCIAL/VENTAS,37274,Salamanca,8,CASTILLA Y LEÓN,NA,NA,NA,NA,"¿Quieres trabajar en uno de los principales Contact Center de Salamanca? ¿Eres una persona dinámica y te gusta asumir nuevos retos? ¿Te gusta el sector de las nuevas tecnologías?
+
+Sigue leyendo, esta oferta es para ti... 
+
+Desde Adecco seleccionamos teleoperadores/as para trabajar en Arvato Bertelsmann.
+
+¿Cuáles serán tus funciones? 
+
+Realizaras la recepción y/o emisión de llamadas en los diferentes departamentos: Atención al cliente, Gestión de quejas y reclamaciones, Gestión de Empresas, Venta de los diferentes productos de la compañía, Fidelización y Retención de Clientes, así como Cancelación de Portabilidades, según las necesidades que haya dentro de la empresa.
+Todo ello gestionado a través de los diferentes sistemas informáticos.
+
+Requisitos del puesto
+- Estudios medios finalizados (Bachillerato o equivalente, FP II, Licenciatura, Diplomatura o Grado) 
+- Disponibilidad para trabajar en turnos de tarde.
+- Nivel de informática medio-avanzado. 
+- Orientación al cliente. 
+- Habilidades comunicativas y comerciales. 
+- Grandes dotes de negociación. 
+- Habilidades resolutivas. 
+- Alta motivación y compromiso en el puesto de trabajo.",ADECCO T.T.,NA,False,4,Bachillerato,04001,"Bachiller, COU, acceso (Sin especialidad)",Bachillerato,False,False,2018-10-31T10:20:20Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-30T00:00:00Z,1734689397,2,PARCIAL,"40.970104,-5.663540",1,WEB,724,ESPAÑA,ESPAÑA,37,SALAMANCA,['SALAMANCA'],SALAMANCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1.1744709,Activa,1,06003,VENDEDORES,VENDEDORES,3,Teleoperadores/as para Turno de Tarde,10,-,NA,NA,NA,NA,NA
+07,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,29054,Fuengirola,1,ANDALUCÍA,NA,NA,NA,NA,INFORMADORES DE TURISMO EN LA LOCALIDAD DE FUENGIROLA,"CEEDIMA 2013, S.L.",NA,False,8,Licenciado o Ingeniero Superior,08081,Otras licenciaturas,Licenciado o Ingeniero Superior,True,NA,2018-10-31T12:45:38Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-08T01:00:00Z,1734691561,1,COMPLETA,"36.544148,-4.624944",2,WEB,724,ESPAÑA,ESPAÑA,29,MÁLAGA,['MÁLAGA'],MÁLAGA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1200,900,1.1744709,Activa,1,07005,PERIODISMO E INFORMACIÓN,PERIODISMO E INFORMACIÓN,3,"DIPLOMADO, GRADO SUPERIOR O TECNICO EN TURISMO",5,-,NA,NA,NA,NA,NA
+15,FÁBRICAS/INDUSTRIA,FÁBRICAS/INDUSTRIA,36057,Vigo,12,GALICIA,¿Tienes experiencia como operario de cadena de montaje en alguna empresa de la automoción?,¿Tienes disponibilidad total para cualquiera de los turnos?,¿Tienes experiencia en el sector de la conserva?,¿Qué edad tienes?,Gi Group ETT selecciona Operarios - Operarias de cadena de montaje para una importante empresa del sector de automoción sin experiencia en el sector y con discapacidad mínima del 33%.,GI Group Spain ETT S. L. U.,True,True,1,Sin estudios,01001,Sin estudios (Sin especialidad),Sin estudios,False,True,2018-10-31T10:45:51Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689772,1,COMPLETA,"42.240599,-8.720727",1,WEB,724,ESPAÑA,ESPAÑA,36,PONTEVEDRA,['PONTEVEDRA'],PONTEVEDRA,True,True,True,True,SI,NO,Sólo en turno de mañana,Sólo en turno de mañana y tarde,"En cualquier turno (mañana, tarde, noche y fin de semana)",SÍ,NO,1500,1200,1.1744709,Activa,1,15004,PEONES/OPERARIOS/MANIPULADORES,PEONES/OPERARIOS/MANIPULADORES,3,OPERARIOS Y OPERARIAS DE CADENA DE MONTAJE CON DISCAPACIDAD,1,-,1,3,1,1,1
+01,ADMINISTRACIÓN,ADMINISTRACIÓN,50297,Zaragoza,2,ARAGÓN,¿Cuántos años de experiencia tiene en administración de fincas?,NA,NA,NA,"Auxiliar administrativo para atención al público en oficina y por teléfono. Gestión de siniestros y coordinación de gremios. Control de gastos e impagados, elaboración de cuentas. Ejecución de los acuerdos adoptados por la Junta de Propietarios.",Asesoría y Gestión Domo SL,True,False,0,Sin especificar,0,SIN ESPECIFICAR,Sin especificar,False,NA,2018-10-31T11:43:06Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T00:00:00Z,1734690741,2,PARCIAL,"41.648823,-0.889085",4,WEB,724,ESPAÑA,ESPAÑA,50,ZARAGOZA,['ZARAGOZA'],ZARAGOZA,True,False,NA,NA,De 1 a 3 años,De 4 a 5 años,NA,NA,NA,NA,NA,520,520,1.1744709,Activa,1,01001,ADMINISTRATIVOS,ADMINISTRATIVOS,3,Auxiliar administrativo para atención al público en administración de fincas,1,-,1,2,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,35028,Tías,5,ISLAS CANARIAS,NA,NA,NA,NA,"Montaje de instalaciones eléctricas de baja tensión: canalizaciones, cableado, conexiones de equipos de alumbrado y fuerza.
+Montaje de instalaciones interiores: montaje de mecanismos, cuadros eléctricos, protecciones.
+Montaje de instalaciones de telecomunicaciones: canalizaciones, cableado, conexiones de equipos.
+Asistencia para averías eléctricas de nuestros clientes.",MIELET ELECTRICIDAD S.L.,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T11:41:15Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690710,1,COMPLETA,"28.957849,-13.650743",3,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16000,14000,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,OFICIAL ELECTRICISTA,1,-,NA,NA,NA,NA,NA
+22,SALUD/DEPORTE,SALUD/DEPORTE,35023,Santa María de Guía de Gran Canaria,5,ISLAS CANARIAS,NA,NA,NA,NA,Médico par centro de discapacitados psíquicos,sar residencial y asistencial sau,NA,False,8,Licenciado o Ingeniero Superior,08067,Medicina,Licenciado o Ingeniero Superior,False,NA,2018-03-22T14:33:15Z,2018-03-22T00:00:00Z,2018-10-31T00:00:00Z,2018-11-20T00:00:00Z,1732236067,2,PARCIAL,"28.107449,-15.606066",1,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,1.1744709,Activa,1,22001,MEDICINA,MEDICINA,0,médico,1,-,NA,NA,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,08019,Barcelona,9,CATALUÑA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Barcelona ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2017-05-04T12:27:49Z,2017-05-04T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T10:44:48Z,1730212624,1,COMPLETA,"41.385064,2.173404",3,WEB,724,ESPAÑA,ESPAÑA,8,BARCELONA,['BARCELONA'],BARCELONA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1800,1800,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,0,Operario de campo técnico multiservicios,1,-,NA,NA,NA,NA,NA
+18,INGENIERÍA/CALIDAD/CIENCIAS,INGENIERÍA/CALIDAD/CIENCIAS,24034,Camponaraya,8,CASTILLA Y LEÓN,NA,NA,NA,NA,REALIZACIÓN DE PROYECTOS Y DIRECCIONES DE OBRA INDUSTRIALES.,CONNECT ELECTRIC INGENIERÍA,NA,False,8,Licenciado o Ingeniero Superior,08060,Ingeniero Industrial,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:58:56Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690019,1,COMPLETA,"42.578457,-6.667398",3,WEB,724,ESPAÑA,ESPAÑA,24,LEÓN,['LEÓN'],LEÓN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1300,1300,1.1744709,Activa,1,18003,INGENIERÍAS,INGENIERÍAS,4,INGENIERO INDUSTRIAL,1,-,NA,NA,NA,NA,NA
+17,INFORMÁTICA/TELECOMUNICACIONES,INFORMÁTICA/TELECOMUNICACIONES,38038,Santa Cruz de Tenerife,5,ISLAS CANARIAS,¿Esta colegiado o esta esta en disposición de hacerlo?,¿Tiene disponibilidad para desplazarse?,NA,NA,"IMPRESCINDIBLE INGENIERÍA TELECOMUNICACIONES
+
+¡inscríbete en nuestra oferta!
+Somos una compañía con una larga trayectoria dentro del sector de las telecomunicaciones, que cuenta con su portfolio de clientes con grandes empresas del sector.
+Estamos seleccionando perfiles titulados en Ingeniería de Telecomunicación para la zona de Barcelona que se encargue de relizar mediciones radioeléctricas en el entorno de:
+
+-Estaciones base de telefonía móvil.
+-Centros emisores de TDT.
+-Centros emisores de FM.
+
+El objeto de estas mediciones es la verificar el cumplimiento del RD 1066/2001. En el proceso de medición se tendrá en cuenta el procedimiento para la realización de medidas de niveles de emisión detallado en la Orden Ministerial CTE 23/2002.
+Durante el proceso de medida el técnico deberá, atendiendo a las características radioeléctricas de la estación y a los factores de entorno, realizar las mediciones en los puntos de máximo nivel de emisión en los que puedan permanecer habitualmente personas.
+
+Por cada estación medida el técnico deberá:
+-cumplimentar una hoja de campo con los valores y datos registrados
+-realizar un reportaje fotográfico
+-realizar un croquis con la ubicación de la estación y de los puntos de medida
+Toda esta documentación se organizará en una carpeta electrónica y se entregará a los responsables del proyecto.","EUROCONTROL,SA",True,False,8,Licenciado o Ingeniero Superior,08053,Ingeniero de Telecomunicación,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:04:36Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689268,1,COMPLETA,"28.463630,-16.251847",1,WEB,724,ESPAÑA,ESPAÑA,38,SANTA CRUZ DE TENERIFE,['SANTA CRUZ DE TENERIFE'],SANTA CRUZ DE TENERIFE,True,True,NA,NA,"Si, lo estoy","No, pero no me importaría",Si sin problema,"Si, con cierto preaviso",No,NA,NA,15000,13000,1.1744709,Activa,1,17006,TELECOMUNICACIONES,TELECOMUNICACIONES,1,INGENIERO DE TELECOMUNICACIONES - TÉCNICO EMR,1,-,3,3,3,3,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,41091,Sevilla,1,ANDALUCÍA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Sevilla ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T10:53:52Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689960,1,COMPLETA,"37.389092,-5.984459",4,WEB,724,ESPAÑA,ESPAÑA,41,SEVILLA,['SEVILLA'],SEVILLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,1500,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,Operario de campo multiservicios,1,-,NA,NA,NA,NA,NA
+06,COMERCIAL/VENTAS,COMERCIAL/VENTAS,37274,Salamanca,8,CASTILLA Y LEÓN,NA,NA,NA,NA,"¿Quieres trabajar en uno de los principales Contact Center de Salamanca? ¿Eres una persona dinámica y te gusta asumir nuevos retos? ¿Te gusta el sector de las nuevas tecnologías?
+
+Sigue leyendo, esta oferta es para ti... 
+
+Desde Adecco seleccionamos teleoperadores/as para trabajar en Arvato Bertelsmann.
+
+¿Cuáles serán tus funciones? 
+
+Realizaras la recepción y/o emisión de llamadas en los diferentes departamentos: Atención al cliente, Gestión de quejas y reclamaciones, Gestión de Empresas, Venta de los diferentes productos de la compañía, Fidelización y Retención de Clientes, así como Cancelación de Portabilidades, según las necesidades que haya dentro de la empresa.
+Todo ello gestionado a través de los diferentes sistemas informáticos.
+
+Requisitos del puesto
+- Estudios medios finalizados (Bachillerato o equivalente, FP II, Licenciatura, Diplomatura o Grado) 
+- Disponibilidad para trabajar en turnos de tarde.
+- Nivel de informática medio-avanzado. 
+- Orientación al cliente. 
+- Habilidades comunicativas y comerciales. 
+- Grandes dotes de negociación. 
+- Habilidades resolutivas. 
+- Alta motivación y compromiso en el puesto de trabajo.",ADECCO T.T.,NA,False,4,Bachillerato,04001,"Bachiller, COU, acceso (Sin especialidad)",Bachillerato,False,False,2018-10-31T10:20:20Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-30T00:00:00Z,1734689397,2,PARCIAL,"40.970104,-5.663540",1,WEB,724,ESPAÑA,ESPAÑA,37,SALAMANCA,['SALAMANCA'],SALAMANCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1.1744709,Activa,1,06003,VENDEDORES,VENDEDORES,3,Teleoperadores/as para Turno de Tarde,10,-,NA,NA,NA,NA,NA
+07,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,29054,Fuengirola,1,ANDALUCÍA,NA,NA,NA,NA,INFORMADORES DE TURISMO EN LA LOCALIDAD DE FUENGIROLA,"CEEDIMA 2013, S.L.",NA,False,8,Licenciado o Ingeniero Superior,08081,Otras licenciaturas,Licenciado o Ingeniero Superior,True,NA,2018-10-31T12:45:38Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-08T01:00:00Z,1734691561,1,COMPLETA,"36.544148,-4.624944",2,WEB,724,ESPAÑA,ESPAÑA,29,MÁLAGA,['MÁLAGA'],MÁLAGA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1200,900,1.1744709,Activa,1,07005,PERIODISMO E INFORMACIÓN,PERIODISMO E INFORMACIÓN,3,"DIPLOMADO, GRADO SUPERIOR O TECNICO EN TURISMO",5,-,NA,NA,NA,NA,NA
+15,FÁBRICAS/INDUSTRIA,FÁBRICAS/INDUSTRIA,36057,Vigo,12,GALICIA,¿Tienes experiencia como operario de cadena de montaje en alguna empresa de la automoción?,¿Tienes disponibilidad total para cualquiera de los turnos?,¿Tienes experiencia en el sector de la conserva?,¿Qué edad tienes?,Gi Group ETT selecciona Operarios - Operarias de cadena de montaje para una importante empresa del sector de automoción sin experiencia en el sector y con discapacidad mínima del 33%.,GI Group Spain ETT S. L. U.,True,True,1,Sin estudios,01001,Sin estudios (Sin especialidad),Sin estudios,False,True,2018-10-31T10:45:51Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689772,1,COMPLETA,"42.240599,-8.720727",1,WEB,724,ESPAÑA,ESPAÑA,36,PONTEVEDRA,['PONTEVEDRA'],PONTEVEDRA,True,True,True,True,SI,NO,Sólo en turno de mañana,Sólo en turno de mañana y tarde,"En cualquier turno (mañana, tarde, noche y fin de semana)",SÍ,NO,1500,1200,1.1744709,Activa,1,15004,PEONES/OPERARIOS/MANIPULADORES,PEONES/OPERARIOS/MANIPULADORES,3,OPERARIOS Y OPERARIAS DE CADENA DE MONTAJE CON DISCAPACIDAD,1,-,1,3,1,1,1
+01,ADMINISTRACIÓN,ADMINISTRACIÓN,50297,Zaragoza,2,ARAGÓN,¿Cuántos años de experiencia tiene en administración de fincas?,NA,NA,NA,"Auxiliar administrativo para atención al público en oficina y por teléfono. Gestión de siniestros y coordinación de gremios. Control de gastos e impagados, elaboración de cuentas. Ejecución de los acuerdos adoptados por la Junta de Propietarios.",Asesoría y Gestión Domo SL,True,False,0,Sin especificar,0,SIN ESPECIFICAR,Sin especificar,False,NA,2018-10-31T11:43:06Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T00:00:00Z,1734690741,2,PARCIAL,"41.648823,-0.889085",4,WEB,724,ESPAÑA,ESPAÑA,50,ZARAGOZA,['ZARAGOZA'],ZARAGOZA,True,False,NA,NA,De 1 a 3 años,De 4 a 5 años,NA,NA,NA,NA,NA,520,520,1.1744709,Activa,1,01001,ADMINISTRATIVOS,ADMINISTRATIVOS,3,Auxiliar administrativo para atención al público en administración de fincas,1,-,1,2,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,35028,Tías,5,ISLAS CANARIAS,NA,NA,NA,NA,"Montaje de instalaciones eléctricas de baja tensión: canalizaciones, cableado, conexiones de equipos de alumbrado y fuerza.
+Montaje de instalaciones interiores: montaje de mecanismos, cuadros eléctricos, protecciones.
+Montaje de instalaciones de telecomunicaciones: canalizaciones, cableado, conexiones de equipos.
+Asistencia para averías eléctricas de nuestros clientes.",MIELET ELECTRICIDAD S.L.,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T11:41:15Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690710,1,COMPLETA,"28.957849,-13.650743",3,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16000,14000,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,OFICIAL ELECTRICISTA,1,-,NA,NA,NA,NA,NA
+22,SALUD/DEPORTE,SALUD/DEPORTE,35023,Santa María de Guía de Gran Canaria,5,ISLAS CANARIAS,NA,NA,NA,NA,Médico par centro de discapacitados psíquicos,sar residencial y asistencial sau,NA,False,8,Licenciado o Ingeniero Superior,08067,Medicina,Licenciado o Ingeniero Superior,False,NA,2018-03-22T14:33:15Z,2018-03-22T00:00:00Z,2018-10-31T00:00:00Z,2018-11-20T00:00:00Z,1732236067,2,PARCIAL,"28.107449,-15.606066",1,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,1.1744709,Activa,1,22001,MEDICINA,MEDICINA,0,médico,1,-,NA,NA,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,08019,Barcelona,9,CATALUÑA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Barcelona ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2017-05-04T12:27:49Z,2017-05-04T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T10:44:48Z,1730212624,1,COMPLETA,"41.385064,2.173404",3,WEB,724,ESPAÑA,ESPAÑA,8,BARCELONA,['BARCELONA'],BARCELONA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1800,1800,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,0,Operario de campo técnico multiservicios,1,-,NA,NA,NA,NA,NA
+18,INGENIERÍA/CALIDAD/CIENCIAS,INGENIERÍA/CALIDAD/CIENCIAS,24034,Camponaraya,8,CASTILLA Y LEÓN,NA,NA,NA,NA,REALIZACIÓN DE PROYECTOS Y DIRECCIONES DE OBRA INDUSTRIALES.,CONNECT ELECTRIC INGENIERÍA,NA,False,8,Licenciado o Ingeniero Superior,08060,Ingeniero Industrial,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:58:56Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690019,1,COMPLETA,"42.578457,-6.667398",3,WEB,724,ESPAÑA,ESPAÑA,24,LEÓN,['LEÓN'],LEÓN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1300,1300,1.1744709,Activa,1,18003,INGENIERÍAS,INGENIERÍAS,4,INGENIERO INDUSTRIAL,1,-,NA,NA,NA,NA,NA
+17,INFORMÁTICA/TELECOMUNICACIONES,INFORMÁTICA/TELECOMUNICACIONES,38038,Santa Cruz de Tenerife,5,ISLAS CANARIAS,¿Esta colegiado o esta esta en disposición de hacerlo?,¿Tiene disponibilidad para desplazarse?,NA,NA,"IMPRESCINDIBLE INGENIERÍA TELECOMUNICACIONES
+
+¡inscríbete en nuestra oferta!
+Somos una compañía con una larga trayectoria dentro del sector de las telecomunicaciones, que cuenta con su portfolio de clientes con grandes empresas del sector.
+Estamos seleccionando perfiles titulados en Ingeniería de Telecomunicación para la zona de Barcelona que se encargue de relizar mediciones radioeléctricas en el entorno de:
+
+-Estaciones base de telefonía móvil.
+-Centros emisores de TDT.
+-Centros emisores de FM.
+
+El objeto de estas mediciones es la verificar el cumplimiento del RD 1066/2001. En el proceso de medición se tendrá en cuenta el procedimiento para la realización de medidas de niveles de emisión detallado en la Orden Ministerial CTE 23/2002.
+Durante el proceso de medida el técnico deberá, atendiendo a las características radioeléctricas de la estación y a los factores de entorno, realizar las mediciones en los puntos de máximo nivel de emisión en los que puedan permanecer habitualmente personas.
+
+Por cada estación medida el técnico deberá:
+-cumplimentar una hoja de campo con los valores y datos registrados
+-realizar un reportaje fotográfico
+-realizar un croquis con la ubicación de la estación y de los puntos de medida
+Toda esta documentación se organizará en una carpeta electrónica y se entregará a los responsables del proyecto.","EUROCONTROL,SA",True,False,8,Licenciado o Ingeniero Superior,08053,Ingeniero de Telecomunicación,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:04:36Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689268,1,COMPLETA,"28.463630,-16.251847",1,WEB,724,ESPAÑA,ESPAÑA,38,SANTA CRUZ DE TENERIFE,['SANTA CRUZ DE TENERIFE'],SANTA CRUZ DE TENERIFE,True,True,NA,NA,"Si, lo estoy","No, pero no me importaría",Si sin problema,"Si, con cierto preaviso",No,NA,NA,15000,13000,1.1744709,Activa,1,17006,TELECOMUNICACIONES,TELECOMUNICACIONES,1,INGENIERO DE TELECOMUNICACIONES - TÉCNICO EMR,1,-,3,3,3,3,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,41091,Sevilla,1,ANDALUCÍA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Sevilla ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T10:53:52Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689960,1,COMPLETA,"37.389092,-5.984459",4,WEB,724,ESPAÑA,ESPAÑA,41,SEVILLA,['SEVILLA'],SEVILLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,1500,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,Operario de campo multiservicios,1,-,NA,NA,NA,NA,NA
+06,COMERCIAL/VENTAS,COMERCIAL/VENTAS,37274,Salamanca,8,CASTILLA Y LEÓN,NA,NA,NA,NA,"¿Quieres trabajar en uno de los principales Contact Center de Salamanca? ¿Eres una persona dinámica y te gusta asumir nuevos retos? ¿Te gusta el sector de las nuevas tecnologías?
+
+Sigue leyendo, esta oferta es para ti... 
+
+Desde Adecco seleccionamos teleoperadores/as para trabajar en Arvato Bertelsmann.
+
+¿Cuáles serán tus funciones? 
+
+Realizaras la recepción y/o emisión de llamadas en los diferentes departamentos: Atención al cliente, Gestión de quejas y reclamaciones, Gestión de Empresas, Venta de los diferentes productos de la compañía, Fidelización y Retención de Clientes, así como Cancelación de Portabilidades, según las necesidades que haya dentro de la empresa.
+Todo ello gestionado a través de los diferentes sistemas informáticos.
+
+Requisitos del puesto
+- Estudios medios finalizados (Bachillerato o equivalente, FP II, Licenciatura, Diplomatura o Grado) 
+- Disponibilidad para trabajar en turnos de tarde.
+- Nivel de informática medio-avanzado. 
+- Orientación al cliente. 
+- Habilidades comunicativas y comerciales. 
+- Grandes dotes de negociación. 
+- Habilidades resolutivas. 
+- Alta motivación y compromiso en el puesto de trabajo.",ADECCO T.T.,NA,False,4,Bachillerato,04001,"Bachiller, COU, acceso (Sin especialidad)",Bachillerato,False,False,2018-10-31T10:20:20Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-30T00:00:00Z,1734689397,2,PARCIAL,"40.970104,-5.663540",1,WEB,724,ESPAÑA,ESPAÑA,37,SALAMANCA,['SALAMANCA'],SALAMANCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1.1744709,Activa,1,06003,VENDEDORES,VENDEDORES,3,Teleoperadores/as para Turno de Tarde,10,-,NA,NA,NA,NA,NA
+07,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,29054,Fuengirola,1,ANDALUCÍA,NA,NA,NA,NA,INFORMADORES DE TURISMO EN LA LOCALIDAD DE FUENGIROLA,"CEEDIMA 2013, S.L.",NA,False,8,Licenciado o Ingeniero Superior,08081,Otras licenciaturas,Licenciado o Ingeniero Superior,True,NA,2018-10-31T12:45:38Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-08T01:00:00Z,1734691561,1,COMPLETA,"36.544148,-4.624944",2,WEB,724,ESPAÑA,ESPAÑA,29,MÁLAGA,['MÁLAGA'],MÁLAGA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1200,900,1.1744709,Activa,1,07005,PERIODISMO E INFORMACIÓN,PERIODISMO E INFORMACIÓN,3,"DIPLOMADO, GRADO SUPERIOR O TECNICO EN TURISMO",5,-,NA,NA,NA,NA,NA
+15,FÁBRICAS/INDUSTRIA,FÁBRICAS/INDUSTRIA,36057,Vigo,12,GALICIA,¿Tienes experiencia como operario de cadena de montaje en alguna empresa de la automoción?,¿Tienes disponibilidad total para cualquiera de los turnos?,¿Tienes experiencia en el sector de la conserva?,¿Qué edad tienes?,Gi Group ETT selecciona Operarios - Operarias de cadena de montaje para una importante empresa del sector de automoción sin experiencia en el sector y con discapacidad mínima del 33%.,GI Group Spain ETT S. L. U.,True,True,1,Sin estudios,01001,Sin estudios (Sin especialidad),Sin estudios,False,True,2018-10-31T10:45:51Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689772,1,COMPLETA,"42.240599,-8.720727",1,WEB,724,ESPAÑA,ESPAÑA,36,PONTEVEDRA,['PONTEVEDRA'],PONTEVEDRA,True,True,True,True,SI,NO,Sólo en turno de mañana,Sólo en turno de mañana y tarde,"En cualquier turno (mañana, tarde, noche y fin de semana)",SÍ,NO,1500,1200,1.1744709,Activa,1,15004,PEONES/OPERARIOS/MANIPULADORES,PEONES/OPERARIOS/MANIPULADORES,3,OPERARIOS Y OPERARIAS DE CADENA DE MONTAJE CON DISCAPACIDAD,1,-,1,3,1,1,1
+01,ADMINISTRACIÓN,ADMINISTRACIÓN,50297,Zaragoza,2,ARAGÓN,¿Cuántos años de experiencia tiene en administración de fincas?,NA,NA,NA,"Auxiliar administrativo para atención al público en oficina y por teléfono. Gestión de siniestros y coordinación de gremios. Control de gastos e impagados, elaboración de cuentas. Ejecución de los acuerdos adoptados por la Junta de Propietarios.",Asesoría y Gestión Domo SL,True,False,0,Sin especificar,0,SIN ESPECIFICAR,Sin especificar,False,NA,2018-10-31T11:43:06Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T00:00:00Z,1734690741,2,PARCIAL,"41.648823,-0.889085",4,WEB,724,ESPAÑA,ESPAÑA,50,ZARAGOZA,['ZARAGOZA'],ZARAGOZA,True,False,NA,NA,De 1 a 3 años,De 4 a 5 años,NA,NA,NA,NA,NA,520,520,1.1744709,Activa,1,01001,ADMINISTRATIVOS,ADMINISTRATIVOS,3,Auxiliar administrativo para atención al público en administración de fincas,1,-,1,2,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,35028,Tías,5,ISLAS CANARIAS,NA,NA,NA,NA,"Montaje de instalaciones eléctricas de baja tensión: canalizaciones, cableado, conexiones de equipos de alumbrado y fuerza.
+Montaje de instalaciones interiores: montaje de mecanismos, cuadros eléctricos, protecciones.
+Montaje de instalaciones de telecomunicaciones: canalizaciones, cableado, conexiones de equipos.
+Asistencia para averías eléctricas de nuestros clientes.",MIELET ELECTRICIDAD S.L.,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T11:41:15Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690710,1,COMPLETA,"28.957849,-13.650743",3,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16000,14000,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,OFICIAL ELECTRICISTA,1,-,NA,NA,NA,NA,NA
+22,SALUD/DEPORTE,SALUD/DEPORTE,35023,Santa María de Guía de Gran Canaria,5,ISLAS CANARIAS,NA,NA,NA,NA,Médico par centro de discapacitados psíquicos,sar residencial y asistencial sau,NA,False,8,Licenciado o Ingeniero Superior,08067,Medicina,Licenciado o Ingeniero Superior,False,NA,2018-03-22T14:33:15Z,2018-03-22T00:00:00Z,2018-10-31T00:00:00Z,2018-11-20T00:00:00Z,1732236067,2,PARCIAL,"28.107449,-15.606066",1,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,1.1744709,Activa,1,22001,MEDICINA,MEDICINA,0,médico,1,-,NA,NA,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,08019,Barcelona,9,CATALUÑA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Barcelona ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2017-05-04T12:27:49Z,2017-05-04T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T10:44:48Z,1730212624,1,COMPLETA,"41.385064,2.173404",3,WEB,724,ESPAÑA,ESPAÑA,8,BARCELONA,['BARCELONA'],BARCELONA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1800,1800,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,0,Operario de campo técnico multiservicios,1,-,NA,NA,NA,NA,NA
+18,INGENIERÍA/CALIDAD/CIENCIAS,INGENIERÍA/CALIDAD/CIENCIAS,24034,Camponaraya,8,CASTILLA Y LEÓN,NA,NA,NA,NA,REALIZACIÓN DE PROYECTOS Y DIRECCIONES DE OBRA INDUSTRIALES.,CONNECT ELECTRIC INGENIERÍA,NA,False,8,Licenciado o Ingeniero Superior,08060,Ingeniero Industrial,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:58:56Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690019,1,COMPLETA,"42.578457,-6.667398",3,WEB,724,ESPAÑA,ESPAÑA,24,LEÓN,['LEÓN'],LEÓN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1300,1300,1.1744709,Activa,1,18003,INGENIERÍAS,INGENIERÍAS,4,INGENIERO INDUSTRIAL,1,-,NA,NA,NA,NA,NA
+17,INFORMÁTICA/TELECOMUNICACIONES,INFORMÁTICA/TELECOMUNICACIONES,38038,Santa Cruz de Tenerife,5,ISLAS CANARIAS,¿Esta colegiado o esta esta en disposición de hacerlo?,¿Tiene disponibilidad para desplazarse?,NA,NA,"IMPRESCINDIBLE INGENIERÍA TELECOMUNICACIONES
+
+¡inscríbete en nuestra oferta!
+Somos una compañía con una larga trayectoria dentro del sector de las telecomunicaciones, que cuenta con su portfolio de clientes con grandes empresas del sector.
+Estamos seleccionando perfiles titulados en Ingeniería de Telecomunicación para la zona de Barcelona que se encargue de relizar mediciones radioeléctricas en el entorno de:
+
+-Estaciones base de telefonía móvil.
+-Centros emisores de TDT.
+-Centros emisores de FM.
+
+El objeto de estas mediciones es la verificar el cumplimiento del RD 1066/2001. En el proceso de medición se tendrá en cuenta el procedimiento para la realización de medidas de niveles de emisión detallado en la Orden Ministerial CTE 23/2002.
+Durante el proceso de medida el técnico deberá, atendiendo a las características radioeléctricas de la estación y a los factores de entorno, realizar las mediciones en los puntos de máximo nivel de emisión en los que puedan permanecer habitualmente personas.
+
+Por cada estación medida el técnico deberá:
+-cumplimentar una hoja de campo con los valores y datos registrados
+-realizar un reportaje fotográfico
+-realizar un croquis con la ubicación de la estación y de los puntos de medida
+Toda esta documentación se organizará en una carpeta electrónica y se entregará a los responsables del proyecto.","EUROCONTROL,SA",True,False,8,Licenciado o Ingeniero Superior,08053,Ingeniero de Telecomunicación,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:04:36Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689268,1,COMPLETA,"28.463630,-16.251847",1,WEB,724,ESPAÑA,ESPAÑA,38,SANTA CRUZ DE TENERIFE,['SANTA CRUZ DE TENERIFE'],SANTA CRUZ DE TENERIFE,True,True,NA,NA,"Si, lo estoy","No, pero no me importaría",Si sin problema,"Si, con cierto preaviso",No,NA,NA,15000,13000,1.1744709,Activa,1,17006,TELECOMUNICACIONES,TELECOMUNICACIONES,1,INGENIERO DE TELECOMUNICACIONES - TÉCNICO EMR,1,-,3,3,3,3,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,41091,Sevilla,1,ANDALUCÍA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Sevilla ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T10:53:52Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689960,1,COMPLETA,"37.389092,-5.984459",4,WEB,724,ESPAÑA,ESPAÑA,41,SEVILLA,['SEVILLA'],SEVILLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,1500,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,Operario de campo multiservicios,1,-,NA,NA,NA,NA,NA
+06,COMERCIAL/VENTAS,COMERCIAL/VENTAS,37274,Salamanca,8,CASTILLA Y LEÓN,NA,NA,NA,NA,"¿Quieres trabajar en uno de los principales Contact Center de Salamanca? ¿Eres una persona dinámica y te gusta asumir nuevos retos? ¿Te gusta el sector de las nuevas tecnologías?
+
+Sigue leyendo, esta oferta es para ti... 
+
+Desde Adecco seleccionamos teleoperadores/as para trabajar en Arvato Bertelsmann.
+
+¿Cuáles serán tus funciones? 
+
+Realizaras la recepción y/o emisión de llamadas en los diferentes departamentos: Atención al cliente, Gestión de quejas y reclamaciones, Gestión de Empresas, Venta de los diferentes productos de la compañía, Fidelización y Retención de Clientes, así como Cancelación de Portabilidades, según las necesidades que haya dentro de la empresa.
+Todo ello gestionado a través de los diferentes sistemas informáticos.
+
+Requisitos del puesto
+- Estudios medios finalizados (Bachillerato o equivalente, FP II, Licenciatura, Diplomatura o Grado) 
+- Disponibilidad para trabajar en turnos de tarde.
+- Nivel de informática medio-avanzado. 
+- Orientación al cliente. 
+- Habilidades comunicativas y comerciales. 
+- Grandes dotes de negociación. 
+- Habilidades resolutivas. 
+- Alta motivación y compromiso en el puesto de trabajo.",ADECCO T.T.,NA,False,4,Bachillerato,04001,"Bachiller, COU, acceso (Sin especialidad)",Bachillerato,False,False,2018-10-31T10:20:20Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-30T00:00:00Z,1734689397,2,PARCIAL,"40.970104,-5.663540",1,WEB,724,ESPAÑA,ESPAÑA,37,SALAMANCA,['SALAMANCA'],SALAMANCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1.1744709,Activa,1,06003,VENDEDORES,VENDEDORES,3,Teleoperadores/as para Turno de Tarde,10,-,NA,NA,NA,NA,NA
+07,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,29054,Fuengirola,1,ANDALUCÍA,NA,NA,NA,NA,INFORMADORES DE TURISMO EN LA LOCALIDAD DE FUENGIROLA,"CEEDIMA 2013, S.L.",NA,False,8,Licenciado o Ingeniero Superior,08081,Otras licenciaturas,Licenciado o Ingeniero Superior,True,NA,2018-10-31T12:45:38Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-08T01:00:00Z,1734691561,1,COMPLETA,"36.544148,-4.624944",2,WEB,724,ESPAÑA,ESPAÑA,29,MÁLAGA,['MÁLAGA'],MÁLAGA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1200,900,1.1744709,Activa,1,07005,PERIODISMO E INFORMACIÓN,PERIODISMO E INFORMACIÓN,3,"DIPLOMADO, GRADO SUPERIOR O TECNICO EN TURISMO",5,-,NA,NA,NA,NA,NA
+15,FÁBRICAS/INDUSTRIA,FÁBRICAS/INDUSTRIA,36057,Vigo,12,GALICIA,¿Tienes experiencia como operario de cadena de montaje en alguna empresa de la automoción?,¿Tienes disponibilidad total para cualquiera de los turnos?,¿Tienes experiencia en el sector de la conserva?,¿Qué edad tienes?,Gi Group ETT selecciona Operarios - Operarias de cadena de montaje para una importante empresa del sector de automoción sin experiencia en el sector y con discapacidad mínima del 33%.,GI Group Spain ETT S. L. U.,True,True,1,Sin estudios,01001,Sin estudios (Sin especialidad),Sin estudios,False,True,2018-10-31T10:45:51Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689772,1,COMPLETA,"42.240599,-8.720727",1,WEB,724,ESPAÑA,ESPAÑA,36,PONTEVEDRA,['PONTEVEDRA'],PONTEVEDRA,True,True,True,True,SI,NO,Sólo en turno de mañana,Sólo en turno de mañana y tarde,"En cualquier turno (mañana, tarde, noche y fin de semana)",SÍ,NO,1500,1200,1.1744709,Activa,1,15004,PEONES/OPERARIOS/MANIPULADORES,PEONES/OPERARIOS/MANIPULADORES,3,OPERARIOS Y OPERARIAS DE CADENA DE MONTAJE CON DISCAPACIDAD,1,-,1,3,1,1,1
+01,ADMINISTRACIÓN,ADMINISTRACIÓN,50297,Zaragoza,2,ARAGÓN,¿Cuántos años de experiencia tiene en administración de fincas?,NA,NA,NA,"Auxiliar administrativo para atención al público en oficina y por teléfono. Gestión de siniestros y coordinación de gremios. Control de gastos e impagados, elaboración de cuentas. Ejecución de los acuerdos adoptados por la Junta de Propietarios.",Asesoría y Gestión Domo SL,True,False,0,Sin especificar,0,SIN ESPECIFICAR,Sin especificar,False,NA,2018-10-31T11:43:06Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T00:00:00Z,1734690741,2,PARCIAL,"41.648823,-0.889085",4,WEB,724,ESPAÑA,ESPAÑA,50,ZARAGOZA,['ZARAGOZA'],ZARAGOZA,True,False,NA,NA,De 1 a 3 años,De 4 a 5 años,NA,NA,NA,NA,NA,520,520,1.1744709,Activa,1,01001,ADMINISTRATIVOS,ADMINISTRATIVOS,3,Auxiliar administrativo para atención al público en administración de fincas,1,-,1,2,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,35028,Tías,5,ISLAS CANARIAS,NA,NA,NA,NA,"Montaje de instalaciones eléctricas de baja tensión: canalizaciones, cableado, conexiones de equipos de alumbrado y fuerza.
+Montaje de instalaciones interiores: montaje de mecanismos, cuadros eléctricos, protecciones.
+Montaje de instalaciones de telecomunicaciones: canalizaciones, cableado, conexiones de equipos.
+Asistencia para averías eléctricas de nuestros clientes.",MIELET ELECTRICIDAD S.L.,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T11:41:15Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690710,1,COMPLETA,"28.957849,-13.650743",3,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16000,14000,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,OFICIAL ELECTRICISTA,1,-,NA,NA,NA,NA,NA
+22,SALUD/DEPORTE,SALUD/DEPORTE,35023,Santa María de Guía de Gran Canaria,5,ISLAS CANARIAS,NA,NA,NA,NA,Médico par centro de discapacitados psíquicos,sar residencial y asistencial sau,NA,False,8,Licenciado o Ingeniero Superior,08067,Medicina,Licenciado o Ingeniero Superior,False,NA,2018-03-22T14:33:15Z,2018-03-22T00:00:00Z,2018-10-31T00:00:00Z,2018-11-20T00:00:00Z,1732236067,2,PARCIAL,"28.107449,-15.606066",1,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,1.1744709,Activa,1,22001,MEDICINA,MEDICINA,0,médico,1,-,NA,NA,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,08019,Barcelona,9,CATALUÑA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Barcelona ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2017-05-04T12:27:49Z,2017-05-04T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T10:44:48Z,1730212624,1,COMPLETA,"41.385064,2.173404",3,WEB,724,ESPAÑA,ESPAÑA,8,BARCELONA,['BARCELONA'],BARCELONA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1800,1800,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,0,Operario de campo técnico multiservicios,1,-,NA,NA,NA,NA,NA
+18,INGENIERÍA/CALIDAD/CIENCIAS,INGENIERÍA/CALIDAD/CIENCIAS,24034,Camponaraya,8,CASTILLA Y LEÓN,NA,NA,NA,NA,REALIZACIÓN DE PROYECTOS Y DIRECCIONES DE OBRA INDUSTRIALES.,CONNECT ELECTRIC INGENIERÍA,NA,False,8,Licenciado o Ingeniero Superior,08060,Ingeniero Industrial,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:58:56Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690019,1,COMPLETA,"42.578457,-6.667398",3,WEB,724,ESPAÑA,ESPAÑA,24,LEÓN,['LEÓN'],LEÓN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1300,1300,1.1744709,Activa,1,18003,INGENIERÍAS,INGENIERÍAS,4,INGENIERO INDUSTRIAL,1,-,NA,NA,NA,NA,NA
+17,INFORMÁTICA/TELECOMUNICACIONES,INFORMÁTICA/TELECOMUNICACIONES,38038,Santa Cruz de Tenerife,5,ISLAS CANARIAS,¿Esta colegiado o esta esta en disposición de hacerlo?,¿Tiene disponibilidad para desplazarse?,NA,NA,"IMPRESCINDIBLE INGENIERÍA TELECOMUNICACIONES
+
+¡inscríbete en nuestra oferta!
+Somos una compañía con una larga trayectoria dentro del sector de las telecomunicaciones, que cuenta con su portfolio de clientes con grandes empresas del sector.
+Estamos seleccionando perfiles titulados en Ingeniería de Telecomunicación para la zona de Barcelona que se encargue de relizar mediciones radioeléctricas en el entorno de:
+
+-Estaciones base de telefonía móvil.
+-Centros emisores de TDT.
+-Centros emisores de FM.
+
+El objeto de estas mediciones es la verificar el cumplimiento del RD 1066/2001. En el proceso de medición se tendrá en cuenta el procedimiento para la realización de medidas de niveles de emisión detallado en la Orden Ministerial CTE 23/2002.
+Durante el proceso de medida el técnico deberá, atendiendo a las características radioeléctricas de la estación y a los factores de entorno, realizar las mediciones en los puntos de máximo nivel de emisión en los que puedan permanecer habitualmente personas.
+
+Por cada estación medida el técnico deberá:
+-cumplimentar una hoja de campo con los valores y datos registrados
+-realizar un reportaje fotográfico
+-realizar un croquis con la ubicación de la estación y de los puntos de medida
+Toda esta documentación se organizará en una carpeta electrónica y se entregará a los responsables del proyecto.","EUROCONTROL,SA",True,False,8,Licenciado o Ingeniero Superior,08053,Ingeniero de Telecomunicación,Licenciado o Ingeniero Superior,False,NA,2018-10-31T10:04:36Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689268,1,COMPLETA,"28.463630,-16.251847",1,WEB,724,ESPAÑA,ESPAÑA,38,SANTA CRUZ DE TENERIFE,['SANTA CRUZ DE TENERIFE'],SANTA CRUZ DE TENERIFE,True,True,NA,NA,"Si, lo estoy","No, pero no me importaría",Si sin problema,"Si, con cierto preaviso",No,NA,NA,15000,13000,1.1744709,Activa,1,17006,TELECOMUNICACIONES,TELECOMUNICACIONES,1,INGENIERO DE TELECOMUNICACIONES - TÉCNICO EMR,1,-,3,3,3,3,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,41091,Sevilla,1,ANDALUCÍA,NA,NA,NA,NA,"Conocimientos en instalaciones de edificios, electricidad baja tensión, fontanería, albañilería, climatización. 
+Preferentemente que haya desarrollado su vida laboral en empresa de servicios de mantenimiento, o responsable de edificio. Conocimiento en desarrollo de presupuestos y tramitación de materiales. 
+Habilidades: 
+Dotes de autogestión. 
+Habilidades de comunicación verbal y correcta interacción de cara al público. 
+Buena presencia. 
+Imprescindible: 
+Experiencia en puesto similar mínima 5 años 
+Residente en Sevilla ciudad o periferia. 
+Carnet de Conducir B.",ECEMIS SL,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T10:53:52Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689960,1,COMPLETA,"37.389092,-5.984459",4,WEB,724,ESPAÑA,ESPAÑA,41,SEVILLA,['SEVILLA'],SEVILLA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1500,1500,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,Operario de campo multiservicios,1,-,NA,NA,NA,NA,NA
+06,COMERCIAL/VENTAS,COMERCIAL/VENTAS,37274,Salamanca,8,CASTILLA Y LEÓN,NA,NA,NA,NA,"¿Quieres trabajar en uno de los principales Contact Center de Salamanca? ¿Eres una persona dinámica y te gusta asumir nuevos retos? ¿Te gusta el sector de las nuevas tecnologías?
+
+Sigue leyendo, esta oferta es para ti... 
+
+Desde Adecco seleccionamos teleoperadores/as para trabajar en Arvato Bertelsmann.
+
+¿Cuáles serán tus funciones? 
+
+Realizaras la recepción y/o emisión de llamadas en los diferentes departamentos: Atención al cliente, Gestión de quejas y reclamaciones, Gestión de Empresas, Venta de los diferentes productos de la compañía, Fidelización y Retención de Clientes, así como Cancelación de Portabilidades, según las necesidades que haya dentro de la empresa.
+Todo ello gestionado a través de los diferentes sistemas informáticos.
+
+Requisitos del puesto
+- Estudios medios finalizados (Bachillerato o equivalente, FP II, Licenciatura, Diplomatura o Grado) 
+- Disponibilidad para trabajar en turnos de tarde.
+- Nivel de informática medio-avanzado. 
+- Orientación al cliente. 
+- Habilidades comunicativas y comerciales. 
+- Grandes dotes de negociación. 
+- Habilidades resolutivas. 
+- Alta motivación y compromiso en el puesto de trabajo.",ADECCO T.T.,NA,False,4,Bachillerato,04001,"Bachiller, COU, acceso (Sin especialidad)",Bachillerato,False,False,2018-10-31T10:20:20Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-30T00:00:00Z,1734689397,2,PARCIAL,"40.970104,-5.663540",1,WEB,724,ESPAÑA,ESPAÑA,37,SALAMANCA,['SALAMANCA'],SALAMANCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1.1744709,Activa,1,06003,VENDEDORES,VENDEDORES,3,Teleoperadores/as para Turno de Tarde,10,-,NA,NA,NA,NA,NA
+07,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,COMUNICACIÓN/CULTURA/ENTRETENIMIENTO,29054,Fuengirola,1,ANDALUCÍA,NA,NA,NA,NA,INFORMADORES DE TURISMO EN LA LOCALIDAD DE FUENGIROLA,"CEEDIMA 2013, S.L.",NA,False,8,Licenciado o Ingeniero Superior,08081,Otras licenciaturas,Licenciado o Ingeniero Superior,True,NA,2018-10-31T12:45:38Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-11-08T01:00:00Z,1734691561,1,COMPLETA,"36.544148,-4.624944",2,WEB,724,ESPAÑA,ESPAÑA,29,MÁLAGA,['MÁLAGA'],MÁLAGA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1200,900,1.1744709,Activa,1,07005,PERIODISMO E INFORMACIÓN,PERIODISMO E INFORMACIÓN,3,"DIPLOMADO, GRADO SUPERIOR O TECNICO EN TURISMO",5,-,NA,NA,NA,NA,NA
+15,FÁBRICAS/INDUSTRIA,FÁBRICAS/INDUSTRIA,36057,Vigo,12,GALICIA,¿Tienes experiencia como operario de cadena de montaje en alguna empresa de la automoción?,¿Tienes disponibilidad total para cualquiera de los turnos?,¿Tienes experiencia en el sector de la conserva?,¿Qué edad tienes?,Gi Group ETT selecciona Operarios - Operarias de cadena de montaje para una importante empresa del sector de automoción sin experiencia en el sector y con discapacidad mínima del 33%.,GI Group Spain ETT S. L. U.,True,True,1,Sin estudios,01001,Sin estudios (Sin especialidad),Sin estudios,False,True,2018-10-31T10:45:51Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734689772,1,COMPLETA,"42.240599,-8.720727",1,WEB,724,ESPAÑA,ESPAÑA,36,PONTEVEDRA,['PONTEVEDRA'],PONTEVEDRA,True,True,True,True,SI,NO,Sólo en turno de mañana,Sólo en turno de mañana y tarde,"En cualquier turno (mañana, tarde, noche y fin de semana)",SÍ,NO,1500,1200,1.1744709,Activa,1,15004,PEONES/OPERARIOS/MANIPULADORES,PEONES/OPERARIOS/MANIPULADORES,3,OPERARIOS Y OPERARIAS DE CADENA DE MONTAJE CON DISCAPACIDAD,1,-,1,3,1,1,1
+01,ADMINISTRACIÓN,ADMINISTRACIÓN,50297,Zaragoza,2,ARAGÓN,¿Cuántos años de experiencia tiene en administración de fincas?,NA,NA,NA,"Auxiliar administrativo para atención al público en oficina y por teléfono. Gestión de siniestros y coordinación de gremios. Control de gastos e impagados, elaboración de cuentas. Ejecución de los acuerdos adoptados por la Junta de Propietarios.",Asesoría y Gestión Domo SL,True,False,0,Sin especificar,0,SIN ESPECIFICAR,Sin especificar,False,NA,2018-10-31T11:43:06Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2018-12-31T00:00:00Z,1734690741,2,PARCIAL,"41.648823,-0.889085",4,WEB,724,ESPAÑA,ESPAÑA,50,ZARAGOZA,['ZARAGOZA'],ZARAGOZA,True,False,NA,NA,De 1 a 3 años,De 4 a 5 años,NA,NA,NA,NA,NA,520,520,1.1744709,Activa,1,01001,ADMINISTRATIVOS,ADMINISTRATIVOS,3,Auxiliar administrativo para atención al público en administración de fincas,1,-,1,2,NA,NA,NA
+14,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,ELECTRICIDAD/ELECTRÓNICA/ENERGÍA,35028,Tías,5,ISLAS CANARIAS,NA,NA,NA,NA,"Montaje de instalaciones eléctricas de baja tensión: canalizaciones, cableado, conexiones de equipos de alumbrado y fuerza.
+Montaje de instalaciones interiores: montaje de mecanismos, cuadros eléctricos, protecciones.
+Montaje de instalaciones de telecomunicaciones: canalizaciones, cableado, conexiones de equipos.
+Asistencia para averías eléctricas de nuestros clientes.",MIELET ELECTRICIDAD S.L.,NA,False,5,"FP I, Ciclo de Grado Medio",05010,Electricidad y Electrónica,"FP I, Ciclo de Grado Medio",False,NA,2018-10-31T11:41:15Z,2018-10-31T00:00:00Z,2018-10-31T00:00:00Z,2019-01-31T00:00:00Z,1734690710,1,COMPLETA,"28.957849,-13.650743",3,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16000,14000,1.1744709,Activa,1,14001,ELECTRICIDAD,ELECTRICIDAD,2,OFICIAL ELECTRICISTA,1,-,NA,NA,NA,NA,NA
+22,SALUD/DEPORTE,SALUD/DEPORTE,35023,Santa María de Guía de Gran Canaria,5,ISLAS CANARIAS,NA,NA,NA,NA,Médico par centro de discapacitados psíquicos,sar residencial y asistencial sau,NA,False,8,Licenciado o Ingeniero Superior,08067,Medicina,Licenciado o Ingeniero Superior,False,NA,2018-03-22T14:33:15Z,2018-03-22T00:00:00Z,2018-10-31T00:00:00Z,2018-11-20T00:00:00Z,1732236067,2,PARCIAL,"28.107449,-15.606066",1,WEB,724,ESPAÑA,ESPAÑA,35,PALMAS (LAS),['PALMAS (LAS)'],PALMAS (LAS),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,1.1744709,Activa,1,22001,MEDICINA,MEDICINA,0,médico,1,-,NA,NA,NA,NA,NA
