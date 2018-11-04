@@ -132,7 +132,7 @@ def main():
 
     # Get ready the different constants to be used.
     today_date = datetime.date.today()
-    filename = f'../data/{args.filename}_{today_date}.csv'
+    filename = f'../data/partial_datasets/{args.filename}_{today_date}.csv'
     wait_time = args.wait_time
 
     requestor = RequestHandler()
@@ -144,7 +144,7 @@ def main():
     elif args.number_of_days is not None:
         logging.info("Getting data from the last {args.number_of_days} days")
         requestor.conf_query_custom_days(args.number_of_days)
-        filename = f'../data/{args.filename}_last_{args.number_of_days}_days.csv'
+        filename = f'../data/partial_datasets/{args.filename}_last_{args.number_of_days}_days.csv'
     
     else:
         logging.info("All the data")
